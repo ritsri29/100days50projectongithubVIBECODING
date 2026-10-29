@@ -1,0 +1,304 @@
+RITWIK'S 100 DAYS OF CODE
+50 PROJECTS FOR GITHUB
+========================================
+
+Goal: Build 50 practical projects in 100 days and publish them on GitHub.
+Focus: Computer Science, Maths, Python, Web Development, AI and Software Engineering.
+Suggested routine: 45-75 minutes on school days; 1-2 hours on weekends.
+Note: These are roadmap targets, not claims that the projects are already complete.
+
+PHASE 1: WEB DEVELOPMENT FOUNDATIONS (DAYS 1-20)
+------------------------------------------------
+
+01. Personal Portfolio Website | Days 1-2
+Tech: HTML, CSS, JavaScript
+Build: An introduction, skills, projects and contact links.
+
+02. Smart To-Do App | Days 3-4
+Tech: JavaScript, localStorage
+Build: Add, edit, delete and complete tasks; save them in the browser.
+
+03. Scientific Calculator | Days 5-6
+Tech: HTML, CSS, JavaScript
+Build: Arithmetic, percentages, square roots and trigonometric functions.
+
+04. Study Focus Timer | Days 7-8
+Tech: JavaScript
+Build: Focus sessions, breaks and daily study statistics.
+
+05. Weather Dashboard | Days 9-10
+Tech: JavaScript, weather API
+Build: City search, current weather and forecast. Keep API keys out of public repositories.
+
+06. Quiz Master | Days 11-12
+Tech: JavaScript, JSON
+Build: Multiple-choice questions, a timer, scoring and a results summary.
+
+07. Markdown Notes Editor | Days 13-14
+Tech: JavaScript
+Build: Notes, live preview, autosave and export.
+
+08. Image Gallery | Days 15-16
+Tech: HTML, CSS, JavaScript
+Build: Responsive image grid, categories and image preview.
+
+09. Expense Tracker | Days 17-18
+Tech: JavaScript, localStorage
+Build: Income, expenses, categories and charts using sample data.
+
+10. Personal Dashboard | Days 19-20
+Tech: HTML, CSS, JavaScript
+Build: Clock, quick links, notes, theme toggle and daily goals.
+
+PHASE 2: PYTHON AND COMPUTER SCIENCE (DAYS 21-40)
+-------------------------------------------------
+
+11. Python File Organizer | Days 21-22
+Tech: Python, pathlib, shutil
+Build: Organize files by type; include a safe preview/dry-run mode.
+
+12. Password Strength Checker | Days 23-24
+Tech: Python
+Build: Check password strength without saving or logging passwords.
+
+13. Number Guessing Game | Days 25-26
+Tech: Python
+Build: A terminal game using loops, conditions and random numbers.
+
+14. Terminal Quiz Game | Days 27-28
+Tech: Python
+Build: A command-line quiz using functions, lists and dictionaries.
+
+15. Maths Formula Toolkit | Days 29-30
+Tech: Python
+Build: Geometry, algebra and unit-conversion helpers with tests.
+
+16. CSV Marks Analyzer | Days 31-32
+Tech: Python, CSV
+Build: Read marks data and calculate averages and simple statistics.
+
+17. Duplicate File Finder | Days 33-34
+Tech: Python, file hashing
+Build: Identify likely duplicate files and preview results before taking action.
+
+18. Text-to-Speech Reader | Days 35-36
+Tech: Python, text-to-speech library
+Build: Read text aloud; document any library or platform requirements.
+
+19. Website Status Checker | Days 37-38
+Tech: Python, HTTP requests
+Build: Check website response status with timeouts and clear error messages.
+
+20. GitHub Repository Analyzer | Days 39-40
+Tech: Python, GitHub API, JSON
+Build: Collect and summarize public repository information.
+
+PHASE 3: FULL-STACK WEB DEVELOPMENT (DAYS 41-60)
+------------------------------------------------
+
+21. Student Attendance Dashboard | Days 41-42
+Tech: JavaScript
+Build: A dashboard with attendance records and searchable data tables.
+
+22. Teacher Content Redirect Portal | Days 43-44
+Tech: HTML, JavaScript
+Build: Map teacher IDs to their assigned content links. Do not treat a redirect as secure authentication.
+
+23. Local Shop Dues CRM | Days 45-46
+Tech: Python, Flask or FastAPI, SQLite
+Build: Track customers, balances and payment history using sample data.
+
+24. Student Result Management | Days 47-48
+Tech: Backend, SQLite
+Build: Create, read, update and delete student result records.
+
+25. URL Shortener | Days 49-50
+Tech: Backend routes, unique IDs
+Build: Create short links and redirect users to the original URL.
+
+26. File Upload Portal | Days 51-52
+Tech: FastAPI or Netlify Functions, file validation
+Build: Upload and list permitted files with size/type limits and server-side validation.
+
+27. Feedback Collection System | Days 53-54
+Tech: Forms, API, SQLite
+Build: Collect and display feedback with basic validation.
+
+28. Personal API Playground | Days 55-56
+Tech: JavaScript, HTTP, JSON
+Build: Send API requests and inspect responses.
+
+29. Login and Role Demo | Days 57-58
+Tech: Backend sessions, password hashing
+Build: A learning demo for user roles. Use secure password hashing and never store plaintext passwords.
+
+30. Mini Admin Dashboard | Days 59-60
+Tech: JavaScript, charts, CRUD
+Build: A dashboard with charts, filtering and data editing.
+
+PHASE 4: SOFTWARE TOOLS AND DEVELOPER PROJECTS (DAYS 61-80)
+------------------------------------------------------------
+
+31. AI Question Paper Generator | Days 61-62
+Tech: Python, FastAPI, LLM API
+Build: Generate a question-paper draft from class, subject, marks and difficulty settings.
+
+32. AI Study Buddy | Days 63-64
+Tech: Python, AI API
+Build: Explain concepts, create summaries and generate revision questions.
+
+33. Voice Command Assistant | Days 65-66
+Tech: Python, speech tools
+Build: Voice input for time, notes and simple, explicitly allowed actions.
+
+34. Music-to-Piano Prototype | Days 67-68
+Tech: Python, audio processing, MIDI
+Build: Upload audio and explore note/MIDI output using an existing transcription model.
+
+35. Virtual Mouse Demo | Days 69-70
+Tech: Python, OpenCV or MediaPipe
+Build: Use webcam hand tracking to control a cursor, with a visible enable/disable switch.
+
+36. CodeSnap: Code Snippet Manager | Days 71-72
+Tech: HTML, CSS, JavaScript, localStorage
+Build: Save, search, categorize and copy code snippets.
+
+37. GitHub Repo Explorer | Days 73-74
+Tech: JavaScript, GitHub API
+Build: Search public repositories and filter by language or stars.
+
+38. DevTools Dashboard | Days 75-76
+Tech: HTML, CSS, JavaScript
+Build: A browser-based toolbox with a JSON formatter, Base64 encoder/decoder and timestamp converter.
+
+39. Python Code Complexity Analyzer | Days 77-78
+Tech: Python, AST
+Build: Scan Python files and report function counts, line counts and basic complexity indicators.
+
+40. Ritwik Studios Project Manager | Days 79-80
+Tech: JavaScript, localStorage
+Build: Manage projects, deadlines, status and task progress.
+
+PHASE 5: ADVANCED PROJECTS AND PORTFOLIO (DAYS 81-100)
+------------------------------------------------------
+
+41. GitHub Profile Stats Dashboard | Days 81-82
+Tech: GitHub API, JavaScript
+Build: A personal dashboard using public profile and repository statistics.
+
+42. Offline Notes PWA | Days 83-84
+Tech: JavaScript, service worker, PWA
+Build: An installable notes app with offline support.
+
+43. Website Accessibility Checker | Days 85-86
+Tech: HTML, CSS, JavaScript
+Build: Check common issues such as missing labels, contrast and keyboard accessibility.
+
+44. Browser Personalization Center | Days 87-88
+Tech: HTML, CSS, JavaScript
+Build: Prototype theme, font and layout preferences for a browser interface.
+
+45. Content Blocker Rules Demo | Days 89-90
+Tech: JavaScript
+Build: Demonstrate domain/rule filtering. This is a prototype, not a complete browser-level ad blocker.
+
+46. Local Knowledge Search | Days 91-92
+Tech: Python or JavaScript
+Build: Search and filter local notes or documents.
+
+47. API Monitoring Dashboard | Days 93-94
+Tech: JavaScript or Python
+Build: Track response status, latency and errors for APIs you are authorized to test.
+
+48. Ritwik Studios Service Website | Days 95-96
+Tech: HTML, CSS, JavaScript
+Build: A service website with honest project examples, service descriptions and contact information.
+
+49. Developer Portfolio v2 | Days 97-98
+Tech: HTML, CSS, JavaScript
+Build: A polished portfolio with project demos, screenshots and documentation.
+
+50. Ritwik DevHub | Days 99-100
+Tech: HTML, CSS, JavaScript; optional API integration
+Build: A flagship developer hub with project gallery, categories, GitHub stats, search and theme options.
+
+GITHUB PUBLISHING CHECKLIST
+---------------------------
+
+For every project:
+[ ] Give the repository a clear, lowercase name.
+[ ] Test the project and document how to run it.
+[ ] Add a README.md with purpose, features, tech stack and setup steps.
+[ ] Add screenshots or a GIF when useful.
+[ ] Remove API keys, passwords, tokens and personal data.
+[ ] Add an appropriate .gitignore.
+[ ] Use meaningful Git commit messages.
+[ ] Mention known limitations and unfinished features honestly.
+[ ] Add a license if appropriate.
+[ ] Deploy a live demo when practical.
+
+
+
+README TEMPLATE
+---------------
+
+# Project Name
+
+A short description of what the project does and why it was built.
+
+## Features
+- Feature one
+- Feature two
+- Feature three
+
+## Tech Stack
+List the languages, tools and libraries used.
+
+## Getting Started
+1. Clone or download the repository.
+2. Open the project folder.
+3. Follow the project-specific setup instructions.
+
+## Screenshots
+Add screenshots or a GIF here.
+
+## What I Learned
+- Key concept one
+- Key concept two
+
+## Future Improvements
+- Improvement one
+- Improvement two
+
+## Limitations
+Mention known bugs, API requirements and unfinished features.
+
+## License
+Mention the chosen license, if any.
+
+DAILY ROUTINE
+-------------
+
+10 minutes: Review previous code.
+25-40 minutes: Build the main feature.
+10 minutes: Test and fix bugs.
+5-10 minutes: Commit code, update README and log progress.
+
+School days: Aim for 45-75 minutes.
+Weekends: Aim for 1-2 hours when available.
+Reduce the session during exams or busy school days; consistency matters more than rushing.
+
+DAY 1 STARTER TASK
+------------------
+
+1. Create a GitHub repository named 100-days-of-code.
+2. Start the ritwik-portfolio project.
+3. Build Hero, About, Skills and Projects sections.
+4. Add a README and make the first meaningful commit.
+5. Record the Day 1 update in PROGRESS.md.
+
+FINAL REMINDER
+--------------
+
+These 50 items are project targets, not completed work. Prioritize quality over quantity:
+15 complete, tested and well-documented projects are more valuable than 50 unfinished repositories.
